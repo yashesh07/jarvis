@@ -1,0 +1,18 @@
+body{
+    font-size: 50px;
+    padding-top: 100px;
+}
+
+.big{
+    font-size: 150px;
+    font-weight: 600;
+    padding: 0px;
+    margin: 0px;
+}
+
+.small{
+    font-size: 1px;
+    font-weight: 200;
+    padding: 0px;
+    margin: 0px;
+}
